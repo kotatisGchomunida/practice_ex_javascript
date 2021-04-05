@@ -1,0 +1,19 @@
+.cl_red {
+  background-color: red;
+}
+
+.cl_blue {
+  background-color: blue;
+}
+
+.flex-box {
+  display: flexbox;
+}
+
+.flex-child {
+  height: 50px;
+  /* padding: 50px; */
+  margin: 10px;
+  border: solid 1px #000;
+  background-color: #fff;
+}
